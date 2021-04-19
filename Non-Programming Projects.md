@@ -1,0 +1,10 @@
+This file will give a brief description on two proejcts that are non-programming related.
+
+The first project was Fujitsu Operation Innovation, where we had to design and develop a tech-related product that would aid people in the health or education industry. We created a wristwatch that would be worn by students that would save stress and could carry out multiple tasks to save time. These tasks consist of paying for canteen food by using a sensor on the watch, and this sensor could also do things like register a student in to a classroom. It would also display time, and what classroom their next lesson is in. The watch needed to have many uses to make it worth the investment, while also being relatively cheap to manufacture. We had to present our product in front of an audience, and essentially try to sell it to them. This project was governed and organised by Fujitsu.
+
+The second project was GoIt @ Home. This was done mostly as an at-home project due to the circumstances of the lockdown regulations as a result of COVID-19. This project was focused on app development, and allowed us to design and develop our own app for whatever we wanted. We had to give an analysis based on certain aspects of the app, who our competition would be etc. My app was a fashion app that would source designer clothing from multiple websites based on filters (size, colour, style etc) set by you. At first, the app itself would make it's money through advertisements, since the app itself wasn't going to handle any transactions, but instead redirect the user to purchase it from the website. I then decided to add a market side to the app, where people can sell second-hand designer items and pay a tiny fee to sell it.
+
+Both of the projects' documents will be linked below for you to view.
+
+Fujitsu Operation Innovation - https://docs.google.com/document/d/14sHiJMMjR_US0OOvsStuF-UdNktHJXa48LRmqnKjBkI/
+GoIt @ Home - https://docs.google.com/presentation/d/1qF-gjj66mBRNl7StEaMQiK0tprT6udFw9xSoSuARr2M/edit#slide=id.gc72b28e0dc_0_4
